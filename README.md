@@ -1,5 +1,5 @@
 #simple shell
 ~~~~
-AUTHORS: kelechi nnadi and samule ephrim
+AUTHORS: Kelechi Nnadi and Ajadi Surprise
 ~~~~
 
